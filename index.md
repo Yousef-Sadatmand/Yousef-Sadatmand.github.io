@@ -7,7 +7,8 @@
 
 
 - <b> Big Data Wrangling with Google Books Ngrams	 <b>
-  - Load, filter, and visualize a large real-world dataset, Google Ngrams, in a cloud-based distributed computing environment, AWS, using Hadoop, Spark, Hive, and the S3 filesystem
+  - AWS|Hadoop|Spark|Hive|S3 
+  - Load, filter, and visualize a large real-world dataset, Google Ngrams, in a cloud-based distributed computing environment
 - <b> Bixi Bikes <b>
   - Data Analysis in SQL|Visual Analytics in Tableau
   - Attained insights into Bixi bike usage patterns, identifying factors influencing usage volume, popular stations, and contributing to overall business growth.
